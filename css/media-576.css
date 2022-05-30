@@ -1,0 +1,23 @@
+@media screen and (max-width: 576px) {
+    .header__logo p {
+        margin-left: 15px;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .header__list-item {
+        padding-left: 25px;
+    }
+    .header__list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding-top: 10px;
+        
+    }
+    .intro {
+        background: url(../img/bg-header-576.jpg) center center no-repeat;
+        background-size: cover;
+        min-height: 100vh; 
+    }
+}
