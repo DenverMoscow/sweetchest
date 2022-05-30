@@ -20,4 +20,12 @@
         background-size: cover;
         min-height: 100vh; 
     }
+    .intro__title {
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 30px;
+        color: #FFFFFF;
+        padding-top: 245px;
+        width: 340px;
+    }
 }
